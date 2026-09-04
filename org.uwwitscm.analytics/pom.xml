@@ -29,7 +29,7 @@
     <repository>
       <id>knime-analytics-platform</id>
       <layout>p2</layout>
-      <url>https://update.knime.com/analytics-platform/5.8</url>
+      <url>https://jenkins.devops.knime.com/p2/knime/analytics-platform/stable-nightly-update-site</url>
     </repository>
     <repository>
       <id>eclipse-2024-03</id>
